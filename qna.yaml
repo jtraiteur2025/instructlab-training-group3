@@ -1,4 +1,4 @@
-created_by: bmos300
+created_by: jtraiteur
 version: 3
 domain: New York Transportation
 document_outline:
@@ -8,14 +8,13 @@ document_outline:
   as well as state funding from New York State.
 seed_examples:
   - context: |
-      The Local Projects Manual (LPM) is intended to assist non New York State Department of Transportation (NYSDOT) transportation project
-      sponsors in New York State who seek federal funding through
-      the Federal Highway Administration (FHWA) , as well as state funding from New York State. The LPM aims to provide
+      The Local Projects Manual (LPM) is intended to assist non New York State Department of Transportation (NYSDOT) transportation project sponsors in New York State who seek federal funding through
+      the Federal Highway Administration (FHWA), as well as state funding from New York State. The LPM aims to provide
       an overview of the processes, procedures, documentation, authorizations, approvals, and certifications required
       throughout the scoping, design, construction, and maintenance of transportation-related projects. While all attempts
       have been made to create a manual as comprehensive as possible, the dynamics of federal and state policy make it
       reasonable to expect that the reader will need to have other references at hand as well.
-      NYSDOT developed the procedures in cooperation with FHWA and representatives of the NYS County Highway Superintendents
+      NYSDOT developed the procedures in cooperation with FHWA and representatives of the New York State County Highway Superintendents
       Association (NYSCHSA) and other external stakeholders. These organizations administer locally administered federal and state-aided transportation projects.
       Periodic updates are necessary to reflect changes in laws, rules, regulations, and executive orders, along with the institutional knowledge gained in the
       evolving practice of non NYSDOT administered federal and state aid transportation projects. Revision dates can typically be found in the footer of each chapter.
@@ -28,7 +27,7 @@ seed_examples:
       - question: |
           How do I get assistance for New York State transportation projects?
         answer: |
-          To get assistance with New York State transportation projects, you should access the Local Projects Manual (LPM). It is intended to assist non-New York State Department of
+          To receive assistance with New York State transportation projects, you should access the Local Projects Manual (LPM). It is intended to assist non-New York State Department of
           Transportation (NYSDOT) transportation project sponsors in New York State who seek federal
           funding through the Federal Highway Administration (FHWA), as well as state funding from
           New York State.
@@ -40,8 +39,8 @@ seed_examples:
       - question: |
           What is the definition/explanation for Architectural Engineering?
         answer: |
-          Private consulting persons or firms providing architectural, landscape  architectural, engineering, environmental, land surveying, construction  inspection, and management services. 
-          These consulting firms need to  be licensed by the New York State Department of Education to provide  design services and also be licensed to conduct business in New York  State. 
+          Private consulting persons or firms providing architectural, landscape architectural, engineering, environmental, land surveying, construction inspection, and management services.
+          These consulting firms need to be licensed by the New York State Department of Education to provide design services and also be licensed to conduct business in New York State.
   - context: |
       Chapter 9: Design Standards and Construction Specifications describes the design standards and construction specifications used in the contract bid documents [Plans, Specifications, and Estimate (PS&E)].
       New York State Department of Transportation (NYSDOT) design standards are based generally on American Association of State Highway and Transportation Officials (AASHTO) standards and have been approved by the Federal Highway Administration (FHWA)
@@ -60,12 +59,8 @@ seed_examples:
         answer: |
           Sponsors and their designers are responsible for keeping up-to-date all issuances of Engineering Directive (ED), Engineering Instruction (EI), and Engineering Bulletin (EB).
   - context: |
-      ## What is the TIP?
-
       The Transportation Improvement Program (TIP) is a staged and financially constrained multi-year program of local/state highway, multimodal and transit projects.
-
       All transportation projects must be listed in the TIP to be eligible for federal and state funding, federal and state permits, and review of Environmental Impact Reports and Environmental Impact Statements.
-
       The GBNRTC TIP is consistent with all federal guidance and regulations, including:
 
       - Incorporates a Comprehensive, Cooperative, and Continuing (3C) process for initiatives to be eligible for Federal transportation funding
@@ -87,7 +82,7 @@ seed_examples:
       - question: |
           Is the GBNRTC TIP consistent with federal guidance?
         answer: |
-          Yes, the GBNRTC TIP is consistent with all federal guidance and regulations.
+          The GBNRTC TIP is consistent with all federal guidance and regulations.
       - question: |
           Does GBNRTC TIP undergo public review?
         answer: |
@@ -120,11 +115,9 @@ seed_examples:
         answer: |
           For Transportation Improvement Program (TIP) the non-attainment and maintenance areas must be consistent with the exempt project classifications contained in the U.S. Environmental Protection Agency (EPA) conformity requirements.
   - context: |
-      ## Inter-Agency Consultation
-
       Participation from a range of stakeholders is important in the transportation planning process. Transportation is vital to our quality of life, and transportation projects can have significant effects on different groups of stakeholders.
 
-      For the 2023-2027 TIP, the GBNRTC conducted interagency consultation with 21 federal, state, local, and tribal agencies responsible for land use management, natural resources, environmental protection, conservation, and historic preservation. For the 2026-2030 TIP, this list will be expanded to 25 to include three regional housing agencies:
+      For the 2023-2027 TIP, the GBNRTC conducted interagency consultation with 21 federal, state, local, and tribal agencies responsible for land use management, natural resources, environmental protection, conservation, and historic preservation. For the 2026-2030 TIP, this list will be expanded to 24 to include three regional housing agencies.  These agencies are:
 
       - 1. Buffalo Niagara Waterkeeper
       - 2. Buffalo Sewer Authority
@@ -243,7 +236,7 @@ seed_examples:
         answer: |
           Yes, the TIP Development process provides the opportunity for interested state and regional agencies to consult and comment on the draft of the TIP. TIP development process also encourges participation of Indian/Native Nations government(s) and targeted stakeholders in the rural areas.
 document:
-  repo: https://github.com/bmos300/publicinstructlab.git
+  repo: https://github.com/jtraiteur2025/instructlab-training-group3.git
   commit: main
   patterns:
     - 2024TIPGuidebook.md
